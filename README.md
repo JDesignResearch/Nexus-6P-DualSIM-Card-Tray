@@ -3,6 +3,8 @@ The attached design is a dual sim tray for the Google Huawei Nexus 6P.
 
 License: CC BY-NC-SA 4.0
 
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+
 This design file is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License.
 
 A summary of this license is as follows.
